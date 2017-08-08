@@ -32,4 +32,3 @@ function calculate(...args) {
 }
 
 module.exports = calculate;
-
