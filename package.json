@@ -1,0 +1,26 @@
+{
+  "name": "postfix-calculator",
+  "version": "1.0.0",
+  "description": "A postfix/reverse polish notation calculator implemented in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/claudemuller/postfix-calculator.git"
+  },
+  "keywords": [
+    "postfix",
+    "calculator",
+    "reverse",
+    "polish",
+    "notation"
+  ],
+  "author": "Claude Müller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudemuller/postfix-calculator/issues"
+  },
+  "homepage": "https://github.com/claudemuller/postfix-calculator#readme"
+}
