@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/claudemuller/postfix-calculator/issues"
   },
-  "homepage": "https://github.com/claudemuller/postfix-calculator#readme"
+  "homepage": "https://github.com/claudemuller/postfix-calculator#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.5",
+    "mocha": "^3.5.0"
+  }
 }
