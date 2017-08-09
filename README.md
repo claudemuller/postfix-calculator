@@ -1,6 +1,6 @@
 # Postfix Calculator
 
-A postfix/reverse polish notation calculator implemented in JavaScript
+  A postfix/[reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) calculator implemented in JavaScript
 
 ## Installation
 
