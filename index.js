@@ -5,8 +5,8 @@ function calculate(...args) {
     if (parseInt(arg)) {
       stack.push(arg);
     } else {
-      const rhs = stack.pop();
       const lhs = stack.pop();
+      const rhs = stack.pop();
 
       switch (arg) {
         case '+':
