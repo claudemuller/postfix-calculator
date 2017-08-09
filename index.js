@@ -1,3 +1,5 @@
+'use strict';
+
 function calculate(...args) {
   let stack = [];
 
