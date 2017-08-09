@@ -1,5 +1,5 @@
 {
-  "name": "postfix-calculator",
+  "name": "@claudemuller/postfix-calculator",
   "version": "1.0.0",
   "description": "A postfix/reverse polish notation calculator implemented in JavaScript",
   "main": "index.js",
@@ -13,9 +13,7 @@
   "keywords": [
     "postfix",
     "calculator",
-    "reverse",
-    "polish",
-    "notation"
+    "reverse polish notation"
   ],
   "author": "Claude Müller",
   "license": "MIT",
