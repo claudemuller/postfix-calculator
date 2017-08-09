@@ -1,11 +1,12 @@
 # Postfix Calculator
-=========
 
 A postfix/reverse polish notation calculator implemented in JavaScript
+
 
 ## Installation
 
   `npm install @claudemuller/postfix-calculator`
+
 
 ## Usage
 
@@ -14,6 +15,7 @@ A postfix/reverse polish notation calculator implemented in JavaScript
    var result = calculate(5, 6, 7, '*', '+', 1, '-');
   
   Output should be `46`
+
 
 ## Tests
 
