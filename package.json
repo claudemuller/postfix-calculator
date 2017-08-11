@@ -4,7 +4,8 @@
   "description": "A postfix/reverse polish notation calculator implemented in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,8 @@
   "homepage": "https://github.com/claudemuller/postfix-calculator#readme",
   "devDependencies": {
     "chai": "^4.1.1",
+    "coveralls": "^2.13.1",
+    "istanbul": "^0.4.5",
     "jscs": "^3.0.7",
     "jshint": "^2.9.5",
     "mocha": "^3.5.0"
